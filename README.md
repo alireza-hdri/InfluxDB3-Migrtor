@@ -62,8 +62,7 @@ Feel free to contribute to this project! If you have suggestions, improvements, 
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
 ## Acknowledgments
 
 - Special thanks to the [InfluxDB](https://www.influxdata.com/) team for providing open-source tools to manage time series data.
