@@ -1,5 +1,4 @@
 # InfluDB3-Migrtor
-# InfluxDB Migration Script (v1.8 to v3)
 
 This Python-based script allows for the migration of data from InfluxDB 1.8 to InfluxDB 3.x. The migration process assumes that both the old and new InfluxDB instances are running in Docker containers.
 
